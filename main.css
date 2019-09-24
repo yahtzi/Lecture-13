@@ -1,0 +1,22 @@
+/*
+font-family: 'Glass Antiqua', cursive;
+font-family: 'Vibes', cursive;
+font-family: 'Notable', sans-serif;
+font-family: 'Rajdhani', sans-serif;
+
+<i class="fab fa-galactic-senate"></i>
+*/
+body {
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 20px; 
+    background-color: black;
+    color: white;
+}
+ header h1 {
+    font-family: 'Notable', sans-serif;
+    font-size: 100px;
+ }
+ img {
+     max-width: 2500px;
+     max-height: 600px;
+ }
